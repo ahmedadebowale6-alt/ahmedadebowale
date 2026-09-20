@@ -1,34 +1,38 @@
-# Hi there, I'm Ahmed Adebowale Akeeb
+# Hi, I’m Ahmed Adebowale Akeeb
 
-## Data Analyst | Turning Data into Decisions
+## Data & Operations Analyst | MSc Logistics & Supply Chain Management
 
-I'm a Data Analyst with a passion for transforming raw data into meaningful insights that support better decision-making. I enjoy working across the data analysis lifecycle—from collecting, cleaning, and analyzing data to creating interactive dashboards and delivering actionable recommendations.
+I am an early-career Data and Operations Analyst based in Greater Manchester. With a background in IT and computer services and an MSc in Logistics & Supply Chain Management, I use data to answer business questions, improve reporting and support practical decision-making.
 
-My expertise includes **Python, SQL, Power BI, Excel, and MySQL**, enabling me to solve business problems through data-driven solutions. I continuously seek opportunities to improve my technical skills, work on real-world projects, and stay current with emerging trends in data analytics and business intelligence.
+## What I work with
 
-### Tech Stack
+- **SQL & MySQL** — data exploration, quality checks and business analysis
+- **Power BI** — interactive dashboards, KPI reporting and visual storytelling
+- **Microsoft Excel** — data preparation and analysis
+- **Python & machine learning** — developing data-analysis, forecasting and predictive-analytics skills
+- **Git & GitHub** — documenting and sharing portfolio projects
 
-* Python
-* SQL
-* Microsoft Power BI
-* Microsoft Excel
-* MySQL
-* Git & GitHub
+## Featured portfolio projects
 
-### Current Focus
+### [Hospital Admissions Analysis](https://github.com/ahmedadebowale6-alt/hospital-admissions-analysis)
 
-* Building end-to-end data analytics projects
-* Strengthening my Python and SQL skills
-* Learning machine learning and predictive analytics
-* Developing interactive Power BI dashboards
+An operations-focused Power BI project analysing admissions, 30-day readmissions, treatment costs and patient outcomes using an anonymised training dataset.
 
-### Featured Projects
+**Skills demonstrated:** Power Query, DAX, KPI design, dashboard development, data quality checks and insight communication.
 
-* Retail Sales Analysis Dashboard
-* SQL Data Exploration and Reporting
-* Python Data Analysis Projects
-* Business Intelligence Dashboards
+### [Retail Sales Analysis](https://github.com/ahmedadebowale6-alt/retail-sales-analysis)
 
-### Let's Connect
+An end-to-end retail analytics project using MySQL, Excel and Power BI to analyse sales, customer activity, product categories and high-value transactions.
 
-I'm always interested in collaborating on data analytics projects, contributing to open-source initiatives, and connecting with professionals who are passionate about using data to solve real-world problems.
+**Skills demonstrated:** SQL querying, exploratory analysis, data quality checks, Power BI dashboard development and business recommendations.
+
+## Current focus
+
+- Building practical analytics projects for data, reporting and operations roles
+- Deepening SQL, Excel and Power BI capability
+- Applying analytics to retail, supply chain and operational problems
+- Learning machine learning for forecasting and predictive analytics
+
+## Let’s connect
+
+I’m open to opportunities and conversations related to data analysis, reporting, operations and supply chain analytics.
